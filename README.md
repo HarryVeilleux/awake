@@ -14,10 +14,10 @@ pip install git+https://github.com/HarryVeilleux/awake.git
 
 ## Usage
 
-In Python environment, run
+Invoke from the command line with
 
-```python
-from awake import awake
+```bash
+python -m awake
 ```
 
-Then execute `awake()` any time you want to keep your computer awake. Function will loop until you hit the escape character or close the window.
+Script will loop until user escapes or closes the console window.
