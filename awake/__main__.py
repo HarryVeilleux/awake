@@ -1,0 +1,3 @@
+import awake
+
+awake.awake()
